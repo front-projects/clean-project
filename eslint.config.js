@@ -37,6 +37,7 @@ export default [
       ],
       'prettier/prettier': ['error'],
       'react/prop-types': 'off',
+      
     },
   },
 ];
